@@ -55,7 +55,7 @@ A suitable BibTeX entry would look something like this:
 @misc{SVM-KMToolbox,
    author       = "S. Canu  and Y. Grandvalet and V. Guigue and A. Rakotomamonjy",
    title        = "SVM and Kernel Methods Matlab Toolbox ",
-   howpublished = "Perception Syst�mes et Information, INSA de Rouen, Rouen, France",
+   howpublished = "Perception Systèmes et Information, INSA de Rouen, Rouen, France",
    year         = 2005
 } 
 ```
@@ -68,7 +68,7 @@ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WAR
 Alain Rakotomamonjy    
 Stephane Canu                        
 
-Insa de Rouen - Avenue de l'Universit�é- 76801 Saint Etienne du Rouvray
+Insa de Rouen - Avenue de l'Universitéé- 76801 Saint Etienne du Rouvray
 Tel : (33) (0)2.32.95.97.03  
 Fax : (33)  (0)2.32.95.97.08
 
